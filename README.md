@@ -1,10 +1,10 @@
 # WeChat - React Js Chat App
 
-**live demo: [https://react-chat-app-kohl.vercel.app/app](https://react-chat-app-kohl.vercel.app/app)**
+**live demo: []()**
 
 ---
 
-### Made with ❤️ by [Dulanjali Senarathna](https://www.linkedin.com/in/dulanjali-senarathna/)
+### Made with ❤️ by [Kumkum Singhal]()
 
 ---
 
@@ -55,21 +55,8 @@ npm run start
 
 ---
 
-## FAQ
 
-### Q: What are the prerequisites?
 
-basics of html, css, javascript and some basic knowledge of react is enough to start this project. Rest you will learn in the tutorial.
-
-### Q: Who the project is for?
-
-The project is for the people who wanna get more skilled in `ReactJs`.
-
----
-
-## Feedback
-
-If you have any feedback, please reach out to us at [Dulanjali Senarathna](https://www.behance.net/dulanjasenarathna)
 
 Happy Coding! 🚀
 
